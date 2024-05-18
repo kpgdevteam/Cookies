@@ -109,3 +109,11 @@ C:\Kings Playground\Visual Studio\Cookies\Cookies\Cookies\obj\Debug\Cookies.cspr
 C:\Kings Playground\Visual Studio\Cookies\Cookies\Cookies\obj\Debug\Cookies.csproj.CopyComplete
 C:\Kings Playground\Visual Studio\Cookies\Cookies\Cookies\obj\Debug\Cookies.dll
 C:\Kings Playground\Visual Studio\Cookies\Cookies\Cookies\obj\Debug\Cookies.pdb
+C:\Kings Playground\Projects\Cookies\Cookies\Cookies\bin\Debug\Cookies.dll
+C:\Kings Playground\Projects\Cookies\Cookies\Cookies\bin\Debug\Cookies.pdb
+C:\Kings Playground\Projects\Cookies\Cookies\Cookies\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Kings Playground\Projects\Cookies\Cookies\Cookies\obj\Debug\Cookies.csproj.AssemblyReference.cache
+C:\Kings Playground\Projects\Cookies\Cookies\Cookies\obj\Debug\Cookies.csproj.CoreCompileInputs.cache
+C:\Kings Playground\Projects\Cookies\Cookies\Cookies\obj\Debug\Cookies.csproj.CopyComplete
+C:\Kings Playground\Projects\Cookies\Cookies\Cookies\obj\Debug\Cookies.dll
+C:\Kings Playground\Projects\Cookies\Cookies\Cookies\obj\Debug\Cookies.pdb
